@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-route-handlers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides route handling functions for Express running in Pomegranate.",
   "main": "index.js",
   "scripts": {
